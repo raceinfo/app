@@ -1,0 +1,27 @@
+[
+    {
+        "version": "1.0.0",
+        "showAds": true,
+        "aosRequiredUpdate": true,
+        "iosRequiredUpdate": true
+    },
+    {
+        "version": "1.0.1",
+        "showAds": true,
+        "aosRequiredUpdate": false,
+        "iosRequiredUpdate": false
+    },
+    {
+        "version": "1.0.2",
+        "showAds": true,
+        "aosRequiredUpdate": false,
+        "iosRequiredUpdate": false
+    },
+    {
+        "version": "1.0.3",
+        "showAds": true,
+        "aosRequiredUpdate": false,
+        "iosRequiredUpdate": false
+    }
+
+]
