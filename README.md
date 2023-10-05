@@ -11,3 +11,7 @@ git remote remove origin
 git remote add origin git@github.com:raceinfo/app.git
 git push -u origin main
 ```
+
+```
+https://raceinfo.github.io/app/privacy.html
+```
